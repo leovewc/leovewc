@@ -1,28 +1,56 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+张三;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</h1>
-
+<!-- 动态打字机标题 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&height=100&lines=✨+Welcome+to+My+Digital+Universe+✨;🚀+Full+Stack+Developer+%26+Open+Source+Wizard;💻+Turning+Coffee+into+Code+Since+2020;🌟+Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
 </p>
 
+<!-- 霓虹分割线 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=你的用户名&theme=radical&hide_border=true" width="70%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🛠️ Tech Stack
+<!-- 访问计数器 + 徽章 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,go,docker,kubernetes&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=leovewc&label=👀+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/leovewc?label=⭐+Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/leovewc?label=🌟+Total+Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/badge/Status-Coding%20Hard-00ff00?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true)
-
+<!-- 3D 贡献图 -->
 <p align="center">
-  <img src="https://github.com/你的用户名/你的用户名/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </p>
 
+<!-- 贪吃蛇动画 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leovewc/leovewc/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leovewc/leovewc/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Leovewc/Leovewc/output/github-snake.svg" />
+  </picture>
 </p>
+
+<!-- 霓虹分割线 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<h2 align="center">🎭 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-🌍+Earth-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-🔥+5%2B+Years-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mood-😎+Chill-ff69b4?style=flat-square" />
+</p>
+
+```javascript
+const developer = {
+    name: "李坤",
+    role: "Full Stack Magician 🧙‍♂️",
+    languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
+    frameworks: ["React", "Next.js", "Node.js", "Django", "FastAPI"],
+    tools: ["Docker", "Kubernetes", "AWS", "Vercel", "GitHub Actions"],
+    currentFocus: "Building scalable systems & AI applications",
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    challenge: "Contributing to open source every single day"
+};
